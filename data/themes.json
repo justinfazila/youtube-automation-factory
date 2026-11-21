@@ -1,0 +1,72 @@
+{
+  "themes": [
+    {
+      "id": "ai-business-automation",
+      "name": "Business & AI Automation",
+      "description": "Comment l'IA transforme la productivité des entrepreneurs",
+      "keywords": [
+        "automatisation IA",
+        "productivité entrepreneur",
+        "outils IA business",
+        "IA pour PME",
+        "workflow automatisé"
+      ],
+      "target_cpm_usd": 25,
+      "competition_level": "medium",
+      "search_volume_monthly": 12000,
+      "video_ideas": [
+        "7 secrets d'IA que les entrepreneurs ne disent pas",
+        "Comment automatiser 80% de votre admin avec l'IA",
+        "Les 5 outils IA qui remplacent un assistant virtuel",
+        "Créer un agent IA pour votre service client en 10 min",
+        "IA vs Humain : quelles tâches déléguer vraiment ?"
+      ]
+    },
+    {
+      "id": "ai-finance-investing",
+      "name": "Finance Personnelle & IA",
+      "description": "Investir, économiser et optimiser ses finances avec l'IA",
+      "keywords": [
+        "investir avec l'IA",
+        "gestion budget IA",
+        "revenus passifs IA",
+        "trading algorithmique",
+        "optimisation fiscale IA"
+      ],
+      "target_cpm_usd": 35,
+      "competition_level": "high",
+      "search_volume_monthly": 8000,
+      "video_ideas": [
+        "Comment l'IA gère mon portefeuille d'investissement",
+        "5 apps IA pour devenir libre financièrement",
+        "Le secret des riches : l'IA pour l'optimisation fiscale",
+        "Créer des revenus passifs avec l'IA (guide complet)",
+        "Erreurs à éviter avec les advisors IA"
+      ]
+    },
+    {
+      "id": "ai-productivity-stoicism",
+      "name": "Productivité & Stoïcisme",
+      "description": "Discipline, focus et systèmes pour entrepreneurs modernes",
+      "keywords": [
+        "productivité extrême",
+        "stoïcisme entrepreneur",
+        "discipline quotidienne",
+        "gestion temps efficace",
+        "systèmes habitudes"
+      ],
+      "target_cpm_usd": 15,
+      "competition_level": "low",
+      "search_volume_monthly": 5000,
+      "video_ideas": [
+        "La routine matinale des CEO qui gagnent 1M+/an",
+        "Stoïcisme + IA : le combo ultime pour décider",
+        "Éliminer la procrastination avec un système IA",
+        "Deep work : comment faire 4h de focus pur",
+        "Pourquoi la motivation ne marche pas (et quoi faire)"
+      ]
+    }
+  ],
+  "niche_selected": "ai-business-automation",
+  "last_updated": "2026-11-21"
+}

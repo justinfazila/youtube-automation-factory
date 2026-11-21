@@ -1,0 +1,110 @@
+{
+  "keywords_database": [
+    {
+      "keyword": "automatisation IA entreprise",
+      "search_volume": 2400,
+      "competition": 0.34,
+      "cpc_usd": 4.20,
+      "intent": "commercial",
+      "difficulty": "medium",
+      "related_questions": [
+        "Comment automatiser son entreprise avec l'IA ?",
+        "Quels outils IA pour automatiser ?",
+        "Combien coûte l'automatisation IA ?"
+      ]
+    },
+    {
+      "keyword": "productivité entrepreneur IA",
+      "search_volume": 1800,
+      "competition": 0.28,
+      "cpc_usd": 3.80,
+      "intent": "informational",
+      "difficulty": "low",
+      "related_questions": [
+        "Comment être plus productif avec l'IA ?",
+        "Meilleurs prompts productivité IA",
+        "IA pour gagner du temps entrepreneur"
+      ]
+    },
+    {
+      "keyword": "créer agent IA business",
+      "search_volume": 900,
+      "competition": 0.42,
+      "cpc_usd": 6.50,
+      "intent": "commercial",
+      "difficulty": "medium",
+      "related_questions": [
+        "Comment créer un agent IA ?",
+        "Agent IA vs ChatGPT différence",
+        "Coût création agent IA personnalisé"
+      ]
+    },
+    {
+      "keyword": "revenus passifs IA 2024",
+      "search_volume": 3200,
+      "competition": 0.51,
+      "cpc_usd": 5.10,
+      "intent": "commercial",
+      "difficulty": "high",
+      "related_questions": [
+        "Comment gagner de l'argent avec l'IA ?",
+        "Idées revenus passifs intelligence artificielle",
+        "Business IA sans code"
+      ]
+    },
+    {
+      "keyword": "prompts système IA business",
+      "search_volume": 600,
+      "competition": 0.22,
+      "cpc_usd": 2.90,
+      "intent": "informational",
+      "difficulty": "low",
+      "related_questions": [
+        "C'est quoi un prompt système ?",
+        "Exemples prompts système business",
+        "Prompt engineering pour entrepreneurs"
+      ]
+    },
+    {
+      "keyword": "IA zapier make n8n automatisation",
+      "search_volume": 1100,
+      "competition": 0.38,
+      "cpc_usd": 4.80,
+      "intent": "commercial",
+      "difficulty": "medium",
+      "related_questions": [
+        "Zapier vs Make vs n8n comparaison",
+        "Automatiser avec IA et no-code",
+        "Workflows IA exemples concrets"
+      ]
+    },
+    {
+      "keyword": "étude marché IA temps réel",
+      "search_volume": 700,
+      "competition": 0.31,
+      "cpc_usd": 3.50,
+      "intent": "informational",
+      "difficulty": "low",
+      "related_questions": [
+        "Comment faire une étude de marché avec l'IA ?",
+        "Outils veille concurrentielle IA",
+        "Analyse tendances marché intelligence artificielle"
+      ]
+    },
+    {
+      "keyword": "créer produit digital IA",
+      "search_volume": 1500,
+      "competition": 0.45,
+      "cpc_usd": 5.80,
+      "intent": "commercial",
+      "difficulty": "medium",
+      "related_questions": [
+        "Créer ebook avec IA en 1 jour",
+        "Cours en ligne générés par IA",
+        "Vendre produits digitaux IA légal"
+      ]
+    }
+  ],
+  "last_updated": "2026-11-21",
+  "source": "Google Keyword Planner + Ahrefs estimates"
+}
